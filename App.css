@@ -1,0 +1,66 @@
+.add-input {
+  position: relative;
+  left: 700px;
+  /* bottom: 20px; */
+  top: 100px;
+  width: 250px;
+  height: 30px;
+  
+
+}
+button{
+ position: relative;
+ left: 720px;
+ top: 100px;
+ height: 35px;
+ width: 100px;
+ font-size: 20px;
+
+
+}
+button:hover{
+  background-color: darkgray;
+}
+.search-input {
+  position: relative;
+  left: 756px;
+  width: 200px;
+  height: 25px;
+  top: 99px;
+
+}
+.select{
+
+  position: relative;
+  width: 150px;
+  height: 28px;
+  top: 99px;
+  right: 30px;
+}
+.checkbox{
+
+  position:relative;
+  left: 700px;
+  top: 193px;
+}
+.k{
+
+  position: relative;
+  left: 730px;
+  top: 149px;
+  font-weight: lighter;
+}
+.btn{
+  margin-left: 12px;
+  position: relative;
+  left: 970px;
+  /* padding: 5px; */
+    /* padding-left: 5px; */
+  /* padding-left: -6px; */
+  padding-right: 0px;
+  font-size: 15px;
+  width: 50px;
+}
+.note{
+  /* border: 1px solid black; */
+}
